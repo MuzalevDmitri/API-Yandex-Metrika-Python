@@ -31,3 +31,4 @@ if response.status_code == 200:
         print('Данные не найдены в ответе API.')
 else:
     print(f'Ошибка при запросе к API. Код ответа: {response.status_code}')
+
