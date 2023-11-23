@@ -1,7 +1,7 @@
 import requests
 
 API_URL = 'https://api-metrika.yandex.ru/stat/v1/data'
-API_token = 'y0_AgAAAAAQzG58AAreeAAAAADyv60h_zECZQYJQMO_7FDfl9nxLRPLOso'
+API_token = 'YOU_TOKEN'
 params = {
     'date1': '10daysAgo',
     'date2': 'today',
